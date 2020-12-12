@@ -7,7 +7,7 @@
  * Author URI:      https://agencia.fixonweb.com.br
  * Text Domain:     fix-logout
  * Domain Path:     /languages
- * Version:         0.1.5
+ * Version:         0.1.6
  *
  * @package         Fix_Logout
  */
