@@ -7,7 +7,7 @@
  * Author URI:      https://agencia.fixonweb.com.br
  * Text Domain:     fix-logout
  * Domain Path:     /languages
- * Version:         0.1.6
+ * Version:         0.1.7
  *
  * @package         Fix_Logout
  */
@@ -16,7 +16,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 require 'plugin-update-checker.php';
-$fix1607789263_url_update 	= 'https://github.com/FIXONWEB/fix-logout.git';
+$fix1607789263_url_update 	= 'https://github.com/fixonweb/fix-logout.git';
 $fix1607789263_slug 		= 'fix-logout/fix-logout';
 $fix1607789263_check 		= Puc_v4_Factory::buildUpdateChecker($fix1607789263_url_update,__FILE__,$fix1607789263_slug);
 
